@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Todo
+
+- is it worth making the recipe view use editable?
+- styling
+
 ## Getting Started
 
 First, run the development server:
@@ -7,11 +12,7 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run dev:https
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
